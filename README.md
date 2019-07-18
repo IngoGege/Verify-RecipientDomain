@@ -21,4 +21,4 @@ The purpose of the script is to check a recipient for SMTP address with domains,
 
 ## Links
 
-https://ingogegenwarth.wordpress.com/
+https://ingogegenwarth.wordpress.com/2018/05/14/exo-notaccepteddomainexception/
